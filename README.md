@@ -1,6 +1,8 @@
 # Nyabigail
 Make abigail say nya (Stardew Valley)
 
+This mod is not complete!!
+
 ## To use this mod:
 1. Download and extract [XNB Extract (mediafire link)](https://www.mediafire.com/file/b86xecd27yti6f6/XNBExtract0.2.2.zip)
 2. Plop the .yaml files in the `XNBExtract0.2.2/UnPacked` folder
