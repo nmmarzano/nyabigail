@@ -16,26 +16,26 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Rainy_Day_0: "The dark... the rain... it gets me excited.$l" #!String
-    Rainy_Day_1: "Hey, remember when we played that duet by the lake? This weather reminds me of that day.#$e#You really surprised me with that mini-harp... I never expected that. I guess that's why I like you so much.$l" #!String
-    Rainy_Day_2: "Hey! I woke up early and did some exploring on my own. I found this and it reminded me of you. [768 767 769 66 82]#$e#Think you can find something better than that? I'm not so sure!$h" #!String
-    Rainy_Day_3: "It might be a good day to visit the caves, huh? Just be careful out there.#$e#If you go, bring a Life Elixir or two." #!String
-    Rainy_Day_4: "Maybe I'll boot up Journey Of The Prairie King today... one of these days I swear I'll beat it on my own.$h" #!String
-    patio_Abigail: "%Abgail is lost in her music." #!String
-    Rainy_Day_Abigail: "The countryside looks more interesting on a day like this, don't you think?" #!String
-    Rainy_Night_0: "I was just gazing out into the rainswept woods... I swear I saw something darker than black shifting around the trees.$6" #!String
-    Rainy_Night_1: "It's a good night to see a ghost..." #!String
-    Rainy_Night_2: "Can you feel it? There's a stillness in the rain..." #!String
-    Rainy_Night_3: "On nights like this, I like to turn the light down low and just listen...$8" #!String
-    Rainy_Night_4: "I felt like making some soup for dinner. I hope it's not too disgusting. [199 218 219 727 730]$h" #!String
-    Rainy_Night_5: "Hey! You look like you've been hard at work. Can I help you relax?^Have you been working hard? You look cute when you're a little exhausted.$h" #!String
-    Rainy_Night_Abigail: "The sound of rain should put us right to sleep tonight." #!String
-    Indoor_Day_0: "I always loved this place, long before you moved in. Now I can explore the farm whenever I want!$h" #!String
-    Indoor_Day_1: "Hey, @. Heading out into the wild? I got you something...[286 287 205 732]#$e#Use that if you get into a tough spot. It should help keep you safe." #!String
-    Indoor_Day_2: "Heading to the mines? Hey... if you find something tasty, remember to bring me a piece!$h" #!String
-    Indoor_Day_3: "Hey! I'm just debating what I should do today. I'm not used to having this much freedom!" #!String
-    Indoor_Day_4: "You don't mind if I do some re-decorating now and then, do you? I'm still excited to have a place of my own to work on." #!String
-    Indoor_Day_Abigail: "There's always something new happening on our farm... I love it." #!String
+    Rainy_Day_0: "The dark... the rain... it gets me excited. owo$l" #!String
+    Rainy_Day_1: "Hey, remember when we played that duet by the lake? This weather reminds me of that day, nya.#$e#You really surprised me with that mini-harp... I never expected that. I guess that's why I like you so much, nya. uwu$l" #!String
+    Rainy_Day_2: "Hey! I woke up early and did some exploring on my own. I found this and it reminded me of you, nya. [768 767 769 66 82]#$e#Think you can find something better than that? I'm not so sure, nya!$h" #!String
+    Rainy_Day_3: "It might be a good day to visit the caves, huh? Just be careful out there, nya.#$e#If you go, bring a Life Elixir or two, nya." #!String
+    Rainy_Day_4: "Maybe I'll boot up Journey Of The Prairie King today... one of these days I swear I'll beat it on my own, nya.$h" #!String
+    patio_Abigail: "%Nyabgail is lost in her music." #!String
+    Rainy_Day_Abigail: "The countryside looks more interesting on a day like this, don't you think? Nya?" #!String
+    Rainy_Night_0: "I was just gazing out into the rainswept woods... I swear I saw something darker than black shifting around the trees, nya.$6" #!String
+    Rainy_Night_1: "It's a good night to see a ghost... Nya..." #!String
+    Rainy_Night_2: "Can you feel it? There's a stillness in the rain... Nya..." #!String
+    Rainy_Night_3: "On nights like this, I like to turn the light down low and just listen, nya...$8" #!String
+    Rainy_Night_4: "I felt like making some soup for dinner. I hope it's not too disgustingw, nya. [199 218 219 727 730]$h" #!String
+    Rainy_Night_5: "Hey! You look like you've been hard at work. Can I help you relax, nya?^Have you been working hard? You look cute when you're a little exhausted, nya.$h" #!String
+    Rainy_Night_Abigail: "The sound of rain should put us right to sleep tonight, nya." #!String
+    Indoor_Day_0: "I always loved this place, long before you moved in. Now I can explore the farm whenever I want, nya!$h" #!String
+    Indoor_Day_1: "Hey, @-nya. Heading out into the wild? I got you something, nya...[286 287 205 732]#$e#Use that if you get into a tough spot. It should help keep you safe, nya." #!String
+    Indoor_Day_2: "Heading to the mines? Hey... if you find something tasty, remember to bring me a piece, nya!$h" #!String
+    Indoor_Day_3: "Hey! I'm just debating what I should do today. I'm not used to having this much freedom! Nya!" #!String
+    Indoor_Day_4: "You don't mind if I do some re-decorating now and then, do you? I'm still excited to have a place of my own to work on, nya." #!String
+    Indoor_Day_Abigail: "There's always something new happening on our farm... I love it. uwu" #!String
     Indoor_Night_0: "I had a good day, today. There's always something interesting goin on around here, if you look close enough." #!String
     Indoor_Night_1: "Hey! Tell me about your day. Did anything exciting happen?$h" #!String
     Indoor_Night_2: "I used to be a night owl, but I'm starting to enjoy the rhythym of life on the farm. It feels natural." #!String
