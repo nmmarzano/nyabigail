@@ -36,56 +36,56 @@ content:  #!Dictionary<String,String>
     Indoor_Day_3: "Hey! I'm just debating what I should do today. I'm not used to having this much freedom! Nya!" #!String
     Indoor_Day_4: "You don't mind if I do some re-decorating now and then, do you? I'm still excited to have a place of my own to work on, nya." #!String
     Indoor_Day_Abigail: "There's always something new happening on our farm... I love it. uwu" #!String
-    Indoor_Night_0: "I had a good day, today. There's always something interesting goin on around here, if you look close enough." #!String
-    Indoor_Night_1: "Hey! Tell me about your day. Did anything exciting happen?$h" #!String
-    Indoor_Night_2: "I used to be a night owl, but I'm starting to enjoy the rhythym of life on the farm. It feels natural." #!String
-    Indoor_Night_3: "*yawn*... I'm ready to call it a night pretty soon.$h" #!String
-    Indoor_Night_4: "The sounds of the night are louder out here. I'll never stop enjoying that." #!String
-    Indoor_Night_Abigail: "Are you ready for bed soon? I turned on the electric blanket for us...$l" #!String
-    Outdoor_0: "The soft breeze is blowing mountain air throughout the valley today. It smells like fresh pine and sage." #!String
-    Outdoor_1: "Hmm... I think we've got plenty of space for outdoor slime ranching!" #!String
-    Outdoor_2: "Make sure to keep things tidy around your Grandpa's shrine. There's something special about it, I can feel it." #!String
-    Outdoor_3: "It's pretty cool that we have a cave on our property. It's something I always dreamed about.$h" #!String
-    Outdoor_4: "I always forget to put some snacks in my pocket. *rumble*$h" #!String
-    Outdoor_Abigail: "I'm just going to hang out here, okay?#$e#There's a lot of interesting bugs and things out here. *chuckle*$h" #!String
-    funLeave_Abigail: "I'm going in to town today, just so you know. I need to stretch these legs a bit." #!String
-    funReturn_Abigail: "Hey! Did you have a good day? Mine went well. It was refreshing to talk a walk.$h" #!String
-    OneKid_3: "I can't believe I'm a \"mom\"... life is weird.$h" #!String
-    TwoKids_0: "I already gave %kid1 and %kid2 their chocolate cereal. They were screaming!" #!String
-    TwoKids_2: "I had a dream that %kid2 will grow up to be a famous monster hunter. I've already been thinking about a little armor set." #!String
-    TwoKids_3: "A cool old house, a couple kids, and an amazing farm. I never thought I'd come this far... but, hey! Our lives are just getting started.$h" #!String
-    Good_1: "Did you hear that? Sometimes I'm convinced this house is haunted.$u" #!String
-    Good_2: "Welwick's horoscope predicted great things for me today. I feel really motivated!" #!String
-    Good_3: "I can't even remember the last time I dyed my hair... I swear, it never fades from this color..." #!String
-    Good_4: "I'm glad I owned a heavy pair of boots before moving in. It's hard to imagine tip-toeing around the mud in sneakers.$h" #!String
-    Good_5: "I was just admiring the mermaid's pendant you gave me... I'll proudly wear this to my grave.$l" #!String
-    Good_6: "Hey. I know you're smart, but I still worry about you sometimes. The world is full of monsters.$6#$e#Just promise me you'll be careful. I don't want to lose you." #!String
-    Good_7: "@? I just want to say that I appreciate all the hard work you do for us. I'm really proud of you.$l" #!String
-    Neutral_0: "I hope you'll still like me when I'm old and shriveled. It's going to happen some day!" #!String
-    Neutral_1: "Do you think your Grandpa would be proud of us?" #!String
-    Neutral_6: "I wonder how the old shop is doing? I should visit my parents again soon." #!String
-    Neutral_7: "If you moved on to the spirit world, I'd set up a little shrine for you next to Grandpa's." #!String
-    Neutral_8: "No matter how much we clean, the house keeps getting dirty again.#$e#I guess farms are kind of dirty." #!String
-    Neutral_9: "I wonder if we'll live here our entire lives? I might get bored." #!String
-    Bad_7: "I used to be special to you, your best friend... now you only seem to put up with me when I make a hot dinner.$s" #!String
-    Bad_8: "You've been so cold to me lately... What's wrong with you? You're acting like a bog spirit...$s" #!String
-    Bad_9: "I wonder if I could've done better... I was very good friends with Sebastian before we met. He was probably the one...$s" #!String
-    spring_1: "So, do you have any big plans for the new year?" #!String
-    spring_12: "Hey, the egg festival is tomorrow. I'm sorry, but I won't go easy on you because we're married!$h#$e#I plan on winning that egg hunt. Go ahead and try to beat me." #!String
-    spring_2: "Do you have any new year's resolutions? I'm trying to lose a few pounds around the middle.$h" #!String
-    summer_1: "I get sunburnt very easily, so I need to be careful this time of year.#$e#I hope you like me pale!$h" #!String
-    summer_4: "Make sure you don't get a heat stroke, my love.#$e#Drink plenty of water and don't overwork yourself." #!String
-    summer_8: "Sorry about the smell... I was sweating all night in the heat." #!String
-    summer_15: "It's summer... that means the house is full of flies.#$e#Don't worry, I'll take care of them. It's fun!$h" #!String
-    fall_6: "Ah... fall. This might be my favorite time of year. The colors really complement my hair, don't you think?" #!String
-    fall_1: "The scent is unmistakable... mushroom, rotting leaves, pumpkin. It's fall, alright. Isn't it lovely?" #!String
-    fall_2: "Can we grow giant pumpkins this season? Please, honey?$h" #!String
-    fall_20: "Honey... you're worth more to me than a chest full of quartz.#$e#Now, a chest full of amethyst? Hmm... I'd have to think about that one.$h" #!String
-    winter_3: "I actually like the cold weather. It just gives me an excuse to get cozy!$h" #!String
-    winter_15: "It's fun to explore the valley in winter! Everything is so different under a blanket of snow. And so quiet..." #!String
-    spring_Abigail: "I may like the colder seasons, but by the end I'm always glad to see spring arrive." #!String
-    summer_Abigail: "Oh man... I could go for some chocolate cake." #!String
-    fall_Abigail: "Do I smell pumpkin on you? Maybe I'm just dreaming...$h" #!String
-    winter_Abigail: "Remember when we played 'Prairie King' together in my room, so long ago? Those were good times.$h" #!String
-    spouseRoom_Abigail: "#$c .5#I got up a little before you and fed David Jr. He's very active this morning.#$e#I hope you don't mind the guinea pig smell." #!String
+    Indoor_Night_0: "I had a good day, today. There's always something interesting goin on around here, if you look close enough, nya." #!String
+    Indoor_Night_1: "Hey! Tell me about your day. Did anything exciting happen? owo$h" #!String
+    Indoor_Night_2: "I used to be a night owl, but I'm starting to enjoy the rhythym of life on the farm. It feels natural, nya." #!String
+    Indoor_Night_3: "*yawn*... I'm ready to call it a night pretty soon, nya.$h" #!String
+    Indoor_Night_4: "The sounds of the night are louder out here. I'll never stop enjoying that. Nya." #!String
+    Indoor_Night_Abigail: "Are you ready for bed soon? I turned on the electric blanket for us, nya...$l" #!String
+    Outdoor_0: "The soft breeze is blowing mountain air throughout the valley today. It smells like fresh pine and sage, nya." #!String
+    Outdoor_1: "Hmm... I think we've got plenty of space for outdoor slime ranching, nya!" #!String
+    Outdoor_2: "Make sure to keep things tidy around your Grandpa's shrine. There's something special about it, I can feel it, nya." #!String
+    Outdoor_3: "It's pretty cool that we have a cave on our property. It's something I always dreamed about, nya.$h" #!String
+    Outdoor_4: "I always forget to put some snacks in my pocket. *rumble* ;w;$h" #!String
+    Outdoor_Abigail: "I'm just going to hang out here, okay? Nya?#$e#There's a lot of interesting bugs and things out here. *nyas*$h" #!String
+    funLeave_Abigail: "I'm going in to town today, just so you know. I need to stretch these legs a bit, nya." #!String
+    funReturn_Abigail: "Hey! Did you have a good day? Mine went well. It was refreshing to take a walk, nya.$h" #!String
+    OneKid_3: "I can't believe I'm a \"mom\"... life is weird, nya.$h" #!String
+    TwoKids_0: "I already gave %kid1 and %kid2 their chocolate cereal. They were screaming, nya!" #!String
+    TwoKids_2: "I had a dream that %kid2 will grow up to be a famous monster hunter. I've already been thinking about a little armor set, nya." #!String
+    TwoKids_3: "A cool old house, a couple kids, and an amazing farm. I never thought I'd come this far... but, hey! Our lives are just getting started, nya.$h" #!String
+    Good_1: "Did you hear that? Sometimes I'm convinced this house is haunted, nya.$u" #!String
+    Good_2: "Welwick's horoscope predicted great things for me today. I feel really motivated, nya!" #!String
+    Good_3: "I can't even remember the last time I dyed my hair... I swear, it never fades from this color, nya..." #!String
+    Good_4: "I'm glad I owned a heavy pair of boots before moving in. It's hard to imagine tip-toeing around the mud in sneakers, nya.$h" #!String
+    Good_5: "I was just admiring the mermaid's pendant you gave me... I'll proudly wear this to my grave, nya.$l" #!String
+    Good_6: "Hey. I know you're smart, but I still worry about you sometimes. The world is full of monsters, nya.$6#$e#Just promise me you'll be careful. I don't want to lose you. Nya." #!String
+    Good_7: "@-nya? I just want to say that I appreciate all the hard work you do for us. I'm really proud of you, nya.$l" #!String
+    Neutral_0: "I hope you'll still like me when I'm old and shriveled. It's going to happen some day, nya!" #!String
+    Neutral_1: "Do you think your Grandpa would be proud of us? Nya?" #!String
+    Neutral_6: "I wonder how the old shop is doing? I should visit my parents again soon, nya." #!String
+    Neutral_7: "If you moved on to the spirit world, I'd set up a little shrine for you next to Grandpa's, nya." #!String
+    Neutral_8: "No matter how much we clean, the house keeps getting dirty again, nya.#$e#I guess farms are kind of dirty, nya." #!String
+    Neutral_9: "I wonder if we'll live here our entire lives? I might get bored, nya." #!String
+    Bad_7: "I used to be special to you, your best friend... now you only seem to put up with me when I make a hot dinner, nya.$s" #!String
+    Bad_8: "You've been so cold to me lately... What's wrong with you? You're acting like a bog spirit, nya...$s" #!String
+    Bad_9: "I wonder if I could've done better... I was very good friends with Sebastian before we met. He was probably the one, nya...$s" #!String
+    spring_1: "So, do you have any big plans for the new year, nya?" #!String
+    spring_12: "Hey, the egg festival is tomorrow. I'm sorry, but I won't go easy on you because we're married! Nya!!$h#$e#I plan on winning that egg hunt. Go ahead and try to beat me, nya." #!String
+    spring_2: "Do you have any new year's resolutions? I'm trying to lose a few pounds around the middle, nya.$h" #!String
+    summer_1: "I get sunburnt very easily, so I need to be careful this time of year, nya.#$e#I hope you like me pale. nya!$h" #!String
+    summer_4: "Make sure you don't get a heat stroke, my love-nya.#$e#Drink plenty of water and don't overwork yourself, nya." #!String
+    summer_8: "Sorry about the smell... I was sweating all night in the heat, nya." #!String
+    summer_15: "It's summer... that means the house is full of flies, nya.#$e#Don't worry, I'll take care of them. It's fun! owo$h" #!String
+    fall_6: "Ah... fall. This might be my favorite time of year. The colors really complement my hair, don't you think? Nya?" #!String
+    fall_1: "The scent is unmistakable... mushroom, rotting leaves, pumpkin. It's fall, alright. Isn't it lovely, nya?" #!String
+    fall_2: "Can we grow giant pumpkins this season? Please, honey? owo$h" #!String
+    fall_20: "Honey... you're worth more to me than a chest full of quartz. uwu#$e#Now, a chest full of amethyst? Hmm... I'd have to think about that one, nya.$h" #!String
+    winter_3: "I actually like the cold weather. It just gives me an excuse to get cozy, nya!$h" #!String
+    winter_15: "It's fun to explore the valley in winter! Everything is so different under a blanket of snow. And so quiet, nya..." #!String
+    spring_Abigail: "I may like the colder seasons, but by the end I'm always glad to see spring arrive, nya." #!String
+    summer_Abigail: "Oh man... I could go for some chocolate cake, nya." #!String
+    fall_Abigail: "Do I smell pumpkin on you? Maybe I'm just dreaming, nya...$h" #!String
+    winter_Abigail: "Remember when we played 'Prairie King' together in my room, so long ago? Those were good times, nya.$h" #!String
+    spouseRoom_Abigail: "#$c .5#I got up a little before you and fed David Jr. He's very active this morning, nya.#$e#I hope you don't mind the guinea pig smell, nya." #!String
 
